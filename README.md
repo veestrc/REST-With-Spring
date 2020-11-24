@@ -2,6 +2,9 @@
 - [REST With Spring] (http://bit.ly/restwithspring)
 
 test merge conflict via Elcipse
+Did not see merge conflict
+File was updated with changes pushed
+
 
 
 # Get Started
