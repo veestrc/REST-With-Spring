@@ -2,13 +2,7 @@
 - [REST With Spring] (http://bit.ly/restwithspring)
 Did not see merge conflict
 
-
 test merge conflict via Eclipsev2
-
-test merge conflict via Elcipse
-Did not see merge conflict
-File was updated with changes pushed
-
 
 
 # Get Started
