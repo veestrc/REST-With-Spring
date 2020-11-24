@@ -1,6 +1,8 @@
 # Resources
 - [REST With Spring] (http://bit.ly/restwithspring)
 
+test merge conflict via Elcipse
+
 
 # Get Started
 
