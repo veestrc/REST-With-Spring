@@ -1,7 +1,9 @@
 # Resources
 - [REST With Spring] (http://bit.ly/restwithspring)
+Did not see merge conflict
 
-test merge conflict via Eclipse
+
+test merge conflict via Eclipsev2
 
 
 # Get Started
